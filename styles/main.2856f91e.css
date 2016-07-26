@@ -7736,3 +7736,8 @@ p {
     margin-top: 100px;
     text-align: center
 }
+
+.modal {
+    padding-left: 100px;
+    padding-right: 100px;
+}
