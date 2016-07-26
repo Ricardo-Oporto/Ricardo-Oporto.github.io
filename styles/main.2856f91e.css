@@ -7687,7 +7687,9 @@ p {
     border-style: none;
     color: #777;
     padding: 0px;
-    background-color: #D1D1D1
+    background-color: #D1D1D1;
+    height: 25px;
+    width: 25px;
 }
 
 .lightbox_header {
